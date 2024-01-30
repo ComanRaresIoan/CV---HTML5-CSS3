@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My CV</title>
+    <link rel="stylesheet" href="./styles/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Our App -->
+    <div class="app-wrapper">
+    <!-- Right side container -->
+    <div class="right-side-container">
+        <!-- About me section -->
+        <div>
+            <h4 class="about-me-profession">Front-End Developer</h4>
+            <h1 class="about-me-name">Coman Rareș-Ioan</h1>
+            <p class="about-me-description">Numele meu este Coman Rareș-Ioan și am studiat la facultatea de inginerie 
+                din cadrul Universitații Lucian Blaga din Sibiu în perioada 2019-2023.
+                Dețin vârsta de 23 de ani și sunt deschis la poziții din domeniul IT. 
+                Am studiat in cadrul facultății limbaje de programare ca C++, OOP, Matlab si am interacționat
+                cu dispozitive electronice precum diode sau tranzistori.
+                Cunosc limba engleză la nivelul avansat. In cadrul CV-ului am atașat tot istoricul profesional 
+                si experiențelele mele profesionale de până acum.
+                Nu ezitați să mă contactați telefonic sau prin mesaj pentru orice informație sau job la care aș putea să aplic.</p>
+                <div class="projects-section">
+
+                    <!-- Projects section -->
+                </div>
+                <h3 class="projects-header">Proiecte</h3>
+                <ol class="projects-lists">
+                    <ul>
+                        <a href="" class="project-name">Acest CV pe care îl vizualizați a fost creat in VSC</a>
+                        <span class="project-info">........................</span>
+                        <span class="project-info">[ HTML5, CSS3 ]</span>
+                    </ul>
+                </ol>              
+        </div>
+
+        <!-- Work experience section -->
+        <div class="work-experience-section">
+          <h3 class="work-experience-header">Experiențe profesionale</h3>
+
+          <!-- Jobs -->
+          <div class="company-container">
+            <h4 class="company-name">Dezvoltator Hardware Marquardt Schaltsysteme   
+                <span class="company-info">Angajat/Employeed</span>
+            </h4> 
+            <p class="company-time">Iulie 2022 - Octombrie 2022 | Romania</p>
+            <ul class="company-elements-list">
+              <li>Dezvoltare de circuite electronice pentru efectuarea unor anumite sarcini</li>
+              <li>Respectarea unor termene limita pentru rezolvarea sarcinilor</li>
+              <li>Conceperea unor teste care pot oferi un rezultat ce poate fi folosit ulterior</li>
+              <li>Refactorizarea șabloanelor și programelor existente</li>
+            </ul>
+          </div>
+         
+        <div class="company-container">
+
+            <!-- Asociații studențești -->
+        </div>
+          <h4 class="company-name">Membru activ cu drept de vot in Asociația studențească Solidus   
+            <span class="company-info">Membru</span>
+        </h4>
+          <p class="company-time">October 2020 - up to now   |  Romania</p>
+          <ul class="company-elements-list">
+              <li>Luarea unor decizii referitoare la viitorul Asociației studențești</li>
+              <li>Gestionarea si aprobarea de proiecte in cadrul departamentului Educațional</li>
+              <li>Organizarea unor activități de voluntariat destinate studenților</li>
+        </ul>
+        </div>
+
+        <div class="company-container">
+            
+            <!-- Alte Mențiuni -->
+        </div>
+        <h4 class="company-name">Alte Mențiuni
+            <span class="company-info"></span>
+        </h4>
+        <ul class="company-elements-list">
+            <li>Sunt in căutarea unui job în domeniul IT în special pe partea de FrontEnd Development.</li>
+        </ul>
+    
+    <!-- Education section -->
+    <div class="education-section">
+        <h3 class="education-header">Education</h3>
+        <!-- National University -->
+        <ul class="education-element">
+            <p class="education-name">National University: Universitatea Lucian Blaga din Sibiu</p>
+        <h3 class="education-domain">Management</h3>
+            <p class="education-time">Octombrie 2019 - Iulie 2023 | Romania</p>
+           <!-- GoIT course -->
+        <h3 class="education-name">GoIT</h3>
+        <p  class="education-domain">Fullstack Online</p>    
+            <p class="education-time">October 2023 - November 2023 | Romania</p>     
+        </ul>
+    </div>
+    </div>
+    <!-- Sidebar section -->
+    <aside class="sidebar-section">
+        <img src="images/Business.jpeg" alt="Profile picture" width="370" class="sidebar-image">
+        <!-- Contacts information -->
+        <div class="contacts-container">
+            <h3 class="contacts-header">Contacts</h3>
+            <div class="contacts-element">
+                <span class="contacts-item">C:</span>
+                <a href="tel:+40 0755 410 205" class="contacts-phone">+40 0755 410 205</a>
+            </div>
+            <div>
+                <span class="contacts-item"> E:</span>
+                <a href="mailto:comanrares51@yahoo.com" class="contacts-email">comanrares51@yahoo.com</a>
+            </div>            
+        </div>
+
+        <!-- Tech skills section -->
+        <div class="tech-skills-section">
+        <h3 class="tech-skills-header">Tech Skills</h3>
+        <ul class="tech-skills-list">
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>C++</li>
+            <li>OOP</li>
+            <li>JavaScript</li>
+            <li>Matlab</li>
+            <li>Electronics</li>
+        </ul>
+        </div>
+
+        <!-- Soft skills section -->
+        <div class="soft-skills-section">
+        <h3 class="soft-skills-header">Soft Skills</h3> 
+        <ul class="soft-skills-list">
+            <li>Proteus</li>
+            <li>Communication</li>
+            <li>Electronics Principles</li>
+            <li>Teamwork</li>
+            <li>Critical Thinking</li>
+        </ul>   
+        </div>
+    </aside>
+</div>
+</body>
+</html>
