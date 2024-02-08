@@ -4,7 +4,7 @@ This HTML code represents a basic structure for a personal CV (Curriculum Vitae)
 
 2. Styling: The page is linked to an external CSS file (styles.css) for styling. This file contains rules that define the visual appearance of various elements on the page.
 
-3. Responsive Design: The viewport meta tag (<meta name="viewport" content="width=device-width, initial-scale=1.0">) is included, suggesting that the page is designed to be responsive and adapt to different screen sizes.
+3. Responsive Design: The viewport meta tag is included, suggesting that the page is designed to be responsive and adapt to different screen sizes.
 
 4. Fonts: The page imports the Montserrat font from Google Fonts and specifies its usage in the CSS.
 
