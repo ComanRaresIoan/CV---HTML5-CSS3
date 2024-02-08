@@ -1,6 +1,6 @@
 This HTML code represents a basic structure for a personal CV (Curriculum Vitae) webpage. Here's a breakdown of its capabilities:
 
-1.Semantic HTML: The document structure is semantically organized with appropriate HTML tags such as <header>, <main>, <footer>, <section>, <aside>, <h1>, <h2>, <p>, <ul>, <ol>, <li>, etc., which improves accessibility and SEO.
+1.Semantic HTML: The document structure is semantically organized with appropriate HTML tags, which improves accessibility and SEO.
 
 2. Styling: The page is linked to an external CSS file (styles.css) for styling. This file contains rules that define the visual appearance of various elements on the page.
 
